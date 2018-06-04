@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="Framework.cpp" />
+    <ClCompile Include="Task.cpp" />
+    <ClCompile Include="Keyboard.cpp" />
+    <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="Object2D.cpp" />
+    <ClCompile Include="RenderingManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Framework.h" />
+    <ClInclude Include="Task.h" />
+    <ClInclude Include="Keyboard.h" />
+    <ClInclude Include="Sound.h" />
+    <ClInclude Include="vector.h" />
+    <ClInclude Include="matrix.h" />
+    <ClInclude Include="Object2D.h" />
+    <ClInclude Include="RenderingManager.h" />
+  </ItemGroup>
+</Project>

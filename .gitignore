@@ -1,0 +1,5 @@
+*.db
+.vs/
+Framework/x64/
+*.txt
+Game/x64/
